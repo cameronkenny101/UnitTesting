@@ -1,0 +1,3 @@
+/cygdrive/c/Users/camek/Desktop/UnitTesting/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/camek/Desktop/UnitTesting/cmake-build-debug/CMakeFiles/UnitTesting.dir
+/cygdrive/c/Users/camek/Desktop/UnitTesting/cmake-build-debug/CMakeFiles/edit_cache.dir

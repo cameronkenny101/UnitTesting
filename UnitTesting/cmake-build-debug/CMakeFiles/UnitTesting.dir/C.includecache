@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/camek/Desktop/UnitTesting/avg_and_max.h
+
+/cygdrive/c/Users/camek/Desktop/UnitTesting/main.c
+stdio.h
+-
+Cunit/CUnit.h
+-
+CUnit/Basic.h
+-
+avg_and_max.h
+/cygdrive/c/Users/camek/Desktop/UnitTesting/avg_and_max.h
+
